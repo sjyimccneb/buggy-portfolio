@@ -30,8 +30,8 @@ const projects = [
        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent`,
     tech: ['css', 'html', 'bootstrap', 'Ruby'],
     src: './assets/Img-Placeholder.png',
-    live: 'https://ambrose-kibet.github.io/portfolio/',
-    sourceCode: 'https://github.com/ambrose-kibet/portfolio',
+    live: 'https://www.google.com/',
+    sourceCode: 'https://www.google.com/',
   },
   {
     name: 'printing',
@@ -40,10 +40,10 @@ const projects = [
      Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
       when an unknown printer took a galley of type and scrambled it to make a type specimen book.
        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent`,
-    tech: ['html', 'bootstrap', 'Ruby'],
+    tech: ['html', 'bootstrap', 'JS'],
     src: './assets/card-bg.png',
-    live: 'https://ambrose-kibet.github.io/portfolio/',
-    sourceCode: 'https://github.com/ambrose-kibet/portfolio',
+    live: 'https://www.google.com/',
+    sourceCode: 'https://www.google.com/',
   },
   {
     name: 'dashboard',
@@ -52,10 +52,10 @@ const projects = [
      Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
       when an unknown printer took a galley of type and scrambled it to make a type specimen book.
        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent`,
-    tech: ['html', 'bootstrap', 'Ruby'],
+    tech: ['html', 'bootstrap', 'JS'],
     src: './assets/dashboard-card.png',
-    live: 'https://ambrose-kibet.github.io/portfolio/',
-    sourceCode: 'https://github.com/ambrose-kibet/portfolio',
+    live: 'https://www.google.com/',
+    sourceCode: 'https://www.google.com/',
   },
   {
     name: 'portfolio',
@@ -64,10 +64,10 @@ const projects = [
      Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,
       when an unknown printer took a galley of type and scrambled it to make a type specimen book.
        It has survived not only five centuries, but also the leap into electronic typesetting, remaining essent`,
-    tech: ['html', 'bootstrap', 'Ruby'],
+    tech: ['html', 'bootstrap', 'JS'],
     src: './assets/porfolio-card.png',
-    live: 'https://ambrose-kibet.github.io/portfolio/',
-    sourceCode: 'https://github.com/ambrose-kibet/portfolio',
+    live: 'https://www.google.com/',
+    sourceCode: 'https://www.google.com/',
   },
 ];
 expandBtn.addEventListener('click', () => {
